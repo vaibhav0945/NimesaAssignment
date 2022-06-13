@@ -1,5 +1,5 @@
 import processor.DataProcessor;
-import userdefinedclass.OutputData;
+import data.OutputData;
 
 import java.io.BufferedReader;
 import java.io.IOException;

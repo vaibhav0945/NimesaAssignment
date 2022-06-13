@@ -1,4 +1,4 @@
-package userdefinedclass;
+package data;
 
 import java.math.BigDecimal;
 

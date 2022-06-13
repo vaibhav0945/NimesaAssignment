@@ -2,7 +2,7 @@ package processor;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import userdefinedclass.OutputData;
+import data.OutputData;
 
 import java.io.IOException;
 import java.math.BigDecimal;
